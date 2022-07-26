@@ -19,6 +19,7 @@ img {
 
 .content {
     margin-top: 17.5%;
+margin-left: 2%;
 }
 
 
@@ -780,16 +781,27 @@ img {
  
 
 }
+.stakingtexts{
+width:75%
+
+} 
+
+.picture{
+width:60%;
+border-radius:20px;border:2px solid #ff9100;margin-top:25px
+
+
+}
 
 .button{  
     position: absolute;
     right: 10%; 
-    bottom: -5%;}
+    bottom: -20%;}
 
 .button2   {
     position: absolute;  
         right: 20%; 
-    bottom: -5%;}
+    bottom: -20%;}
 
 .Home_grid__GxQ85{width:1280px}
 
@@ -797,7 +809,7 @@ img {
 
 .Home_servicesin__9PWtZ{
   background:linear-gradient(120.16deg,#a88848 23.46%,#fceeb2 38.86%,#ddb55b 51.42%,#feefb1 73.71%);
-  border-radius:10px;
+  border-radius:10px
   width:98%!important;border:1px solid #ddb55b
   }
 .Home_services__q4ZQr 
