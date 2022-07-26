@@ -110,7 +110,13 @@ body, html {
 
 }
 
+.iframe{
+    border-radius: 20px;
+    border: 2px solid #ff9100;
+    margin-top: 25px;
+    padding: -20px;
 
+}
 
 .bg {
   width: 100%;
