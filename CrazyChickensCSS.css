@@ -20,6 +20,7 @@ img {
 .content {
     margin-top: 17.5%;
 margin-left: 2%;
+
 }
 
 
@@ -793,15 +794,19 @@ border-radius:20px;border:2px solid #ff9100;margin-top:25px
 
 }
 
+.footer{
+
+}
+
 .button{  
     position: absolute;
     right: 10%; 
-    bottom: -20%;}
+    bottom: -15%;}
 
 .button2   {
     position: absolute;  
         right: 20%; 
-    bottom: -20%;}
+    bottom: -15%;}
 
 .Home_grid__GxQ85{width:1280px}
 
