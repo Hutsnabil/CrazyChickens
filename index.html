@@ -7,6 +7,11 @@
  <link rel="stylesheet" href="stylesheet.css">
 <link rel="stylesheet" href="Big.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC, L]
 
 <style>
 	html, body{
